@@ -1,4 +1,3 @@
-(function(){
 function plus (){
    var num1,num2,result;
    num1 = document.getElementById('number1').value;
@@ -50,4 +49,3 @@ function multiplication (){
 
    document.getElementById('out').innerHTML = result;
 }
-})();
